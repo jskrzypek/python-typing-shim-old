@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "python-typing-shim"
+  project_description: "Naive shim for importing all of typing and typing-extensions from the same modulule"
+  organization: "python-typing-shim"
+  license: "MIT"
+  minimal_python_version: 3.7
+  github_name: "python_typing_shim"
+  email: "jskrzypek@gmail.com"
+  version: "0.0.1"
+  line_length: "80"
+  create_example_template: "none"
