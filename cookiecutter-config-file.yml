@@ -6,7 +6,7 @@ default_context:
   organization: "python-typing-shim"
   license: "MIT"
   minimal_python_version: 3.7
-  github_name: "python_typing_shim"
+  github_name: "jskrzypek"
   email: "jskrzypek@gmail.com"
   version: "0.0.1"
   line_length: "80"
